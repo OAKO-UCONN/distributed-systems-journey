@@ -1,6 +1,6 @@
 # Distributed Systems Journey
 
-> 📚 Roadmap to becoming a distributed systems Ph.D 🎓
+> 📚 Roadmap to becoming a distributed systems specialist 🎓
 
 - [Distributed Systems Journey](#distributed-systems-journey)
   - [What is this roadmap?](#what-is-this-roadmap)
@@ -18,7 +18,7 @@
 
 ## What is this roadmap?
 
-This resource is my personal roadmap in order to become a **Distributed Systems Ph.D**.
+This resource is my personal roadmap in order to become a **Distributed Systems specialist**.
 
 This project aims to have a pragmatic and realistic approach. We will create a solid foundation, starting with practical knowledge, and build upon it until we achieve a Ph.D. level of expertise in Distributed Systems.
 
@@ -100,7 +100,7 @@ My main background is not in Elixir/Erlang nor backend development.
 
 Currently, I am a JavaScript Developer, building React SPAs (and [creating](https://github.com/ericdouglas/onli-reducer) [some tools](https://github.com/ericdouglas/abstract-state) to improve the developer experience while using it).
 
-I'm also an undergraduate student of Computer Engineering, and finishing my specialization in Software Engineering.
+I'm also finishing my specialization in Software Engineering.
 
 Some years ago I created OSSU and OSSU-CS (as I said before) to offer free education for everyone.
 
