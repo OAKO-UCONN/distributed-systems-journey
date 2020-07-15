@@ -66,6 +66,8 @@ By build, I mean you should create a new project based on the knowledge you acqu
 
 It would also be interesting to create at least a simple article for each section of the resource you are consuming, to better summarize what you have learned. I recommend [DEV](https://dev.to/) to be your blog platform.
 
+I will also do one challenge from HackerRank in all programming languages I know after finish a section of a resource I'm studying. You can see more about this [here](https://github.com/ericdouglas/algorithms-and-data-structures).
+
 ## Distributed Systems Developer Roadmap
 
 - **Main goal**: being able to develop distributed CRUD applications.
@@ -90,7 +92,7 @@ It would also be interesting to create at least a simple article for each sectio
 - **Duration**: 3~5 years.
 - Link to phd roadmap ➭
 
-***Total duration: 10~15 years.***
+**_Total duration: 10~15 years._**
 
 ## About the author
 
