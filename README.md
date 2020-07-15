@@ -51,6 +51,8 @@ We have a bunch of resources about this topic, so take some time to research and
 
 Recently, I develop a personal methodology that I'll share with you so you can use it as an inspiration to create your own.
 
+> **Obs**: 1000 days will not be enough to finish the entire journey but is the first milestone and it will be interesting to look back and see what has changed.
+
 ### C3T2B1
 
 The **C3T2B1** learning methodology consists of:
