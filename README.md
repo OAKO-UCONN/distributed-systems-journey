@@ -51,8 +51,6 @@ We have a bunch of resources about this topic, so take some time to research and
 
 Recently, I develop a personal methodology that I'll share with you so you can use it as an inspiration to create your own.
 
-> **Obs**: 1000 days will not be enough to finish the entire journey but is the first milestone and it will be interesting to look back and see what has changed.
-
 ### C3T2B1
 
 The **C3T2B1** learning methodology consists of:
@@ -76,6 +74,8 @@ I will also do one challenge from HackerRank in all programming languages I know
 Planning is very important, but the execution is even more! To achieve a big goal, we need a very clear and doable strategy.
 
 With this in mind, I created a personal challenge "1000 days of Distributed Systems Journey". You can see more about it [here](1000-days-challenge/README.md).
+
+> **Obs**: 1000 days will not be enough to finish the entire journey but is the first milestone and it will be interesting to look back and see what has changed.
 
 ## Distributed Systems Developer Roadmap
 
