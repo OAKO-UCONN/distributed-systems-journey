@@ -27,3 +27,10 @@ This file will be a log of my personal challenge that consists in **study 2 hour
 ### Day 0004 - 2020-07-15 ✔
 
 - Opened the 1000 days challenge log.
+- Started chapter 10 - Functionally Solving Problems from LYSE book
+
+### Day 0005 - 2020-07-16 ✔
+
+- Continued chapter 10 - Functionally Solving Problems from LYSE book.
+- Finished section _Reverse Polish Notation Calculator_.
+- Started section _Heathrow to London_.
