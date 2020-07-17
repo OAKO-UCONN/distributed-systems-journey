@@ -34,3 +34,10 @@ This file will be a log of my personal challenge that consists in **study 2 hour
 - Continued chapter 10 - Functionally Solving Problems from LYSE book.
 - Finished section _Reverse Polish Notation Calculator_.
 - Started section _Heathrow to London_.
+
+### Day 0006 - 2020-07-17 ✔
+
+- Continued chapter 10 - Functionally Solving Problems from LYSE book.
+- Finished chapter 10 - Functionally Solving Problems from LYSE book.
+- Started "Jumping on the Clouds" challenge in HackerRank with Erlang.
+- Finished "Jumping on the Clouds" challenge in HackerRank [with Erlang](https://github.com/ericdouglas/algorithms-and-data-structures/tree/master/hackerrank/interview-preparation-kit/warmup-challenges/jumping-on-the-clouds/erlang).
