@@ -41,3 +41,9 @@ This file will be a log of my personal challenge that consists in **study 2 hour
 - Finished chapter 10 - Functionally Solving Problems from LYSE book.
 - Started "Jumping on the Clouds" challenge in HackerRank with Erlang.
 - Finished "Jumping on the Clouds" challenge in HackerRank [with Erlang](https://github.com/ericdouglas/algorithms-and-data-structures/tree/master/hackerrank/interview-preparation-kit/warmup-challenges/jumping-on-the-clouds/erlang).
+
+### Day 0007 - 2020-07-18 ✔
+
+- Started "Jumping on the Clouds" challenge in HackerRank with JavaScript.
+- Finished "Jumping on the Clouds" challenge in HackerRank [with JavaScript](https://github.com/ericdouglas/algorithms-and-data-structures/tree/master/hackerrank/interview-preparation-kit/warmup-challenges/jumping-on-the-clouds/javascript).
+- Started chapter 11 - A Short Visit to Common Data Structures from LYSE book.
