@@ -47,3 +47,10 @@ This file will be a log of my personal challenge that consists in **study 2 hour
 - Started "Jumping on the Clouds" challenge in HackerRank with JavaScript.
 - Finished "Jumping on the Clouds" challenge in HackerRank [with JavaScript](https://github.com/ericdouglas/algorithms-and-data-structures/tree/master/hackerrank/interview-preparation-kit/warmup-challenges/jumping-on-the-clouds/javascript).
 - Started chapter 11 - A Short Visit to Common Data Structures from LYSE book.
+
+### Day 0008 - 2020-07-19 ✘
+
+- Continued chapter 11 - A Short Visit to Common Data Structures from LYSE book.
+- Finished section "Records"
+- Started section "Key-Value Stores"
+- Studied 30min 👎🏽
