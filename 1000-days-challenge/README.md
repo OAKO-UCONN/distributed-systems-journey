@@ -54,3 +54,9 @@ This file will be a log of my personal challenge that consists in **study 2 hour
 - Finished section "Records"
 - Started section "Key-Value Stores"
 - Studied 30min 👎🏽
+
+### Day 0009 - 2020-07-20 ✔
+
+- Continued chapter 11 - A Short Visit to Common Data Structures from LYSE book.
+- Finished chapter 11 - A Short Visit to Common Data Structures from LYSE book.
+- Started "Repeated string" challenge in HackerRank with Erlang.
