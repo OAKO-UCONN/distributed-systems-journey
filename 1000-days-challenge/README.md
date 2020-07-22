@@ -60,3 +60,12 @@ This file will be a log of my personal challenge that consists in **study 2 hour
 - Continued chapter 11 - A Short Visit to Common Data Structures from LYSE book.
 - Finished chapter 11 - A Short Visit to Common Data Structures from LYSE book.
 - Started "Repeated string" challenge in HackerRank with Erlang.
+
+> ** OBS **: since I'm in the process of moving to another city, I'll consider a successful day, a day that I study at least 1 hour.
+
+### Day 0010 - 2020-07-21 ✔
+
+- Continued "Repeated string" challenge in HackerRank with Erlang.
+- Finished first version of "Repeated string" challenge in HackerRank [with Erlang](https://github.com/ericdouglas/algorithms-and-data-structures/blob/master/hackerrank/interview-preparation-kit/warmup-challenges/repeated-string/erlang/repeat.erl). This version does not work for big inputs, so I will make another version. Message from HackerRank: _Your code did not execute within the time limits_.
+- Started second version of "Repeated string" challenge in HackerRank with Erlang.
+- Studied 1h 10min.
