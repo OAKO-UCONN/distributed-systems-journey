@@ -69,3 +69,8 @@ This file will be a log of my personal challenge that consists in **study 2 hour
 - Finished first version of "Repeated string" challenge in HackerRank [with Erlang](https://github.com/ericdouglas/algorithms-and-data-structures/blob/master/hackerrank/interview-preparation-kit/warmup-challenges/repeated-string/erlang/repeat.erl). This version does not work for big inputs, so I will make another version. Message from HackerRank: _Your code did not execute within the time limits_.
 - Started second version of "Repeated string" challenge in HackerRank with Erlang.
 - Studied 1h 10min.
+
+### Day 0011 - 2020-07-22 ✔
+
+- Continued second version of "Repeated string" challenge in HackerRank with Erlang.
+- Studied 1h 16min.
