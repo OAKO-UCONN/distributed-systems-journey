@@ -80,4 +80,15 @@ This file will be a log of my personal challenge that consists in **study 2 hour
 - Continued second version of "Repeated string" challenge in HackerRank with Erlang.
 - Finished second version of "Repeated string" challenge in HackerRank [with Erlang](https://github.com/ericdouglas/algorithms-and-data-structures/tree/master/hackerrank/interview-preparation-kit/warmup-challenges/repeated-string/erlang).
 - Started "Repeated string" challenge in HackerRank with JavaScript.
+- Finished first version of "Repeated string" challenge in HackerRank with JavaScript.
 - Studied 1h 45min.
+
+### Day 0013 - 2020-07-24 ✔
+
+- Started third version of "Repeated string" challenge in HackerRank with Erlang.
+- Finished third version of "Repeated string" challenge in HackerRank [with Erlang](https://github.com/ericdouglas/algorithms-and-data-structures/tree/master/hackerrank/interview-preparation-kit/warmup-challenges/repeated-string/erlang).
+- Started second version of "Repeated string" challenge in HackerRank with JavaScript.
+- Finished second version of "Repeated string" challenge in HackerRank [with JavaScript](https://github.com/ericdouglas/algorithms-and-data-structures/tree/master/hackerrank/interview-preparation-kit/warmup-challenges/repeated-string/javascript).
+- Studied 1h.
+
+> **Fun fact**: I had an insight about the solution for the repeated string challenge taking a shower yesterday. For that reason I finally came to a final solution that works for big inputs in both languages 😅
