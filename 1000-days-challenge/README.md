@@ -61,7 +61,7 @@ This file will be a log of my personal challenge that consists in **study 2 hour
 - Finished chapter 11 - A Short Visit to Common Data Structures from LYSE book.
 - Started "Repeated string" challenge in HackerRank with Erlang.
 
-> ** OBS **: since I'm in the process of moving to another city, I'll consider a successful day, a day that I study at least 1 hour.
+> **OBS**: since I'm in the process of moving to another city, I'll consider a successful day, a day that I study at least 1 hour.
 
 ### Day 0010 - 2020-07-21 ✔
 
