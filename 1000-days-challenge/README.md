@@ -92,3 +92,9 @@ This file will be a log of my personal challenge that consists in **study 2 hour
 - Studied 1h.
 
 > **Fun fact**: I had an insight about the solution for the repeated string challenge taking a shower yesterday. For that reason I finally came to a final solution that works for big inputs in both languages 😅
+
+### Day 0014 - 2020-07-25 ✔
+
+- Started chapter 12 "The Hitchhiker's Guide to Concurrency" from LYSE book.
+- Finished chapter 12 "The Hitchhiker's Guide to Concurrency" from LYSE book.
+- Studied 1h 30min.
