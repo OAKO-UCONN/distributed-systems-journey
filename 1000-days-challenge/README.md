@@ -98,3 +98,18 @@ This file will be a log of my personal challenge that consists in **study 2 hour
 - Started chapter 12 "The Hitchhiker's Guide to Concurrency" from LYSE book.
 - Finished chapter 12 "The Hitchhiker's Guide to Concurrency" from LYSE book.
 - Studied 1h 30min.
+
+### Day 0015 - 2020-07-26 ✔
+
+- Analysed other solutions written in Erlang for the problem "Sock Merchant" in HackRank.
+- Analysed other solutions written in JavaScript for the problem "Sock Merchant" in HackRank.
+- Analysed other solutions written in Erlang for the problem "Counting Valleys" in HackRank.
+  - [This solution](https://www.hackerrank.com/rest/contests/master/challenges/counting-valleys/hackers/daifan_dolivar/download_solution) is very elegant.
+  - Did another version based on the above solution. [Link](https://github.com/ericdouglas/algorithms-and-data-structures/blob/master/hackerrank/interview-preparation-kit/warmup-challenges/counting-valleys/erlang/counting_two.erl).
+- Analysed other solutions written in JavaScript for the problem "Counting Valleys" in HackRank.
+- Analysed other solutions written in Erlang for the problem "Jumping on the Clouds" in HackRank.
+- Analysed other solutions written in JavaScript for the problem "Jumping on the Clouds" in HackRank.
+- Analysed other solutions written in Erlang for the problem "Repeated String" in HackRank.
+  - Refactored/improved variable name in my final solution in Erlang.
+- Analysed other solutions written in JavaScript for the problem "Repeated String" in HackRank.
+- Studied 1h 34min.
