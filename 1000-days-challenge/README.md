@@ -113,3 +113,8 @@ This file will be a log of my personal challenge that consists in **study 2 hour
   - Refactored/improved variable name in my final solution in Erlang.
 - Analysed other solutions written in JavaScript for the problem "Repeated String" in HackRank.
 - Studied 1h 34min.
+
+### Day 0016 - 2020-07-27 ✔
+
+- Started chapter 13 "More On Multiprocessing" from LYSE book.
+- Studied 1h.
