@@ -118,3 +118,11 @@ This file will be a log of my personal challenge that consists in **study 2 hour
 
 - Started chapter 13 "More On Multiprocessing" from LYSE book.
 - Studied 1h.
+
+### Day 0017 - 2020-07-28 ✔
+
+- Continued chapter 13 "More On Multiprocessing" from LYSE book.
+- Finished chapter 13 "More On Multiprocessing" from LYSE book.
+- Started "arrays" section on HackerRank.
+- Started "2d array DS" challenge in HackerRank with Erlang.
+- Studied 1h 03min.
