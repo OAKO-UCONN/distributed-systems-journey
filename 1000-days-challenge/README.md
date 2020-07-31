@@ -136,3 +136,9 @@ This file will be a log of my personal challenge that consists in **study 2 hour
 
 - Continued "2d array DS" challenge in HackerRank with Erlang.
 - Studied 1h 10min.
+
+### Day 0020 - 2020-07-31 ✔
+
+- Continued "2d array DS" challenge in HackerRank with Erlang.
+- Started new approach to solve "2d array DS" challenge in HackerRank with Erlang.
+- Studied 1h 28min.
