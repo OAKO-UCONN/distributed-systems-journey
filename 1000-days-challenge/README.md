@@ -148,3 +148,8 @@ This file will be a log of my personal challenge that consists in **study 2 hour
 - Continued new approach to solve "2d array DS" challenge in HackerRank with Erlang.
 - Finished new approach to solve "2d array DS" challenge in HackerRank [with Erlang](https://github.com/ericdouglas/algorithms-and-data-structures/blob/master/hackerrank/interview-preparation-kit/arrays/2d-array-ds/erlang/hourglass.erl).
 - Studied 1h 38min.
+
+### Day 0022 - 2020-08-02 ✔
+
+- Started "2d array DS" challenge in HackerRank with JavaScript.
+- Studied 1h 49min.
