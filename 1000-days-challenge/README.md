@@ -153,3 +153,9 @@ This file will be a log of my personal challenge that consists in **study 2 hour
 
 - Started "2d array DS" challenge in HackerRank with JavaScript.
 - Studied 1h 49min.
+
+### Day 0023 - 2020-08-03 ✔
+
+- Continued "2d array DS" challenge in HackerRank with JavaScript.
+- Finished "2d array DS" challenge in HackerRank [with JavaScript](https://github.com/ericdouglas/algorithms-and-data-structures/tree/master/hackerrank/interview-preparation-kit/arrays/2d-array-ds/javascript).
+- Studied 1h 13min.
