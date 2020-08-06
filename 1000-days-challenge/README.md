@@ -165,3 +165,8 @@ This file will be a log of my personal challenge that consists in **study 2 hour
 - Started chapter 14 "Errors and Processes" from LYSE book.
 - Studied 1h.
 
+### Day 0025 - 2020-08-05 ✔
+
+- Continued chapter 14 "Errors and Processes" from LYSE book.
+- Studied 1h.
+
