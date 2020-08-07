@@ -176,3 +176,9 @@ This file will be a log of my personal challenge that consists in **study 2 hour
 - Finished chapter 14 "Errors and Processes" from LYSE book.
 - Started chapter 15 "Designing a Concurrent Application" from LYSE book.
 - Studied 1h.
+
+### Day 0027 - 2020-08-07 ✔
+
+- Continued chapter 15 "Designing a Concurrent Application" from LYSE book.
+  - Finished section "An Event Module".
+- Studied 1h 03min.
