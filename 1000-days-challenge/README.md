@@ -182,3 +182,10 @@ This file will be a log of my personal challenge that consists in **study 2 hour
 - Continued chapter 15 "Designing a Concurrent Application" from LYSE book.
   - Finished section "An Event Module".
 - Studied 1h 03min.
+
+
+### Day 0028 - 2020-08-08 ✔
+
+- Continued chapter 15 "Designing a Concurrent Application" from LYSE book.
+  - Started section "The Event Server".
+- Studied 1h.
