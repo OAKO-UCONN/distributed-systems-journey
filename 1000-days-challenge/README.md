@@ -189,3 +189,9 @@ This file will be a log of my personal challenge that consists in **study 2 hour
 - Continued chapter 15 "Designing a Concurrent Application" from LYSE book.
   - Started section "The Event Server".
 - Studied 1h.
+
+
+### Day 0029 - 2020-08-09 ✔
+
+- Continued chapter 15 "Designing a Concurrent Application" from LYSE book.
+- Studied 1h.
