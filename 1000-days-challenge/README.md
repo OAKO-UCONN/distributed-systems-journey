@@ -183,15 +183,24 @@ This file will be a log of my personal challenge that consists in **study 2 hour
   - Finished section "An Event Module".
 - Studied 1h 03min.
 
-
 ### Day 0028 - 2020-08-08 ✔
 
 - Continued chapter 15 "Designing a Concurrent Application" from LYSE book.
   - Started section "The Event Server".
 - Studied 1h.
 
-
 ### Day 0029 - 2020-08-09 ✔
 
 - Continued chapter 15 "Designing a Concurrent Application" from LYSE book.
+- Studied 1h.
+
+> **OBS**: had to stop for some days since I moved to another city/state. Returning now :smile:
+
+### Day 0030 - 2020-08-18 ✔
+
+- Continued chapter 15 "Designing a Concurrent Application" from LYSE book.
+  - Finished section "The Event Server".
+  - Started section "Hot Code Loving".
+  - Finished section "Hot Code Loving".
+  - Started section "I Said, Hide Your Messages".
 - Studied 1h.
