@@ -204,3 +204,10 @@ This file will be a log of my personal challenge that consists in **study 2 hour
   - Finished section "Hot Code Loving".
   - Started section "I Said, Hide Your Messages".
 - Studied 1h.
+
+### Day 0031 - 2020-08-20 ✔
+
+- Configured setup for Erlang development in another machine.
+- Continued chapter 15 "Designing a Concurrent Application" from LYSE book.
+  - Finished section "I Said, Hide Your Messages".
+- Studied 1h 10min.
