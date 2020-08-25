@@ -7,8 +7,8 @@ To achieve this big goal, though, I will incrementally increase the difficulty, 
 ## Challenges
 
 - [7 days challenge](7-days.md)
-  - status: **doing**
-  - attempt: **01**
+  - status:
+  - attempt:
 - 15 days challenge
 - 30 days challenge
 - 90 days challenge
