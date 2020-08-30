@@ -5,7 +5,8 @@
 - [Distributed Systems Developer Roadmap](#distributed-systems-developer-roadmap)
   - [What is this roadmap?](#what-is-this-roadmap)
   - [Resources](#resources)
-  - [Duration: 2~3 years](#duration-23-years)
+  - [Complementary](#complementary)
+  - [Duration: 2 years](#duration-2-years)
 
 ## What is this roadmap?
 
@@ -17,7 +18,7 @@ We will focus primarily on acquiring a good command of these core tools:
 
 - Elixir (programming language)
 - Phoenix (framework)
-- PostgreSQL (database)
+- SQL & PostgreSQL (database)
 - Ecto (data mapping)
 
 We will also have an introduction to databases using PostgreSQL, as well as some introduction to topics like WebSockets and GraphQL, to name a few.
@@ -30,16 +31,23 @@ The content in this roadmap has been extensively curated and only resources that
 
 ## Resources
 
-| Name                                                 |     Type     | Is free? |                                            Link                                             |
-| :--------------------------------------------------- | :----------: | :------: | :-----------------------------------------------------------------------------------------: |
-| Developing With Elixir/OTP                           | Video course |    No    |                         [Link](https://pragmaticstudio.com/elixir)                          |
-| Programming Phoenix 1.4                              |     Book     |    No    |                       [Link](https://pragprog.com/titles/phoenix14/)                        |
-| SQL & PostgreSQL for Beginners: Become an SQL Expert | Video course |    No    |           [Link](https://www.udemy.com/course/sql-and-postgresql-for-beginners/)            |
-| Programming Ecto                                     |     Book     |    No    |                         [Link](https://pragprog.com/titles/wmecto/)                         |
-| Multi-Player Bingo with Elixir, Phoenix, Vue & Elm   | Video course |    No    | [Link](https://pragmaticstudio.com/unpacked-multi-player-bingo-with-elixir-phoenix-vue-elm) |
+| Name                                                 |     Type     | Is free? |                                  Link                                  |
+| :--------------------------------------------------- | :----------: | :------: | :--------------------------------------------------------------------: |
+| Programming Elixir 1.6                               |     Book     |    No    |             [Link](https://pragprog.com/titles/elixir16/)              |
+| Programming Phoenix 1.4                              |     Book     |    No    |             [Link](https://pragprog.com/titles/phoenix14/)             |
+| SQL & PostgreSQL for Beginners: Become an SQL Expert | Video course |    No    | [Link](https://www.udemy.com/course/sql-and-postgresql-for-beginners/) |
+| Programming Ecto                                     |     Book     |    No    |              [Link](https://pragprog.com/titles/wmecto/)               |
+
+## Complementary
+
+| Name                                                 |     Type     | Is free? |                                                Link                                                 |
+| :--------------------------------------------------- | :----------: | :------: | :-------------------------------------------------------------------------------------------------: |
+| Developing With Elixir/OTP                           | Video course |    No    |                             [Link](https://pragmaticstudio.com/elixir)                              |
+| Multi-Player Bingo with Elixir, Phoenix, Vue & Elm   | Video course |    No    |     [Link](https://pragmaticstudio.com/unpacked-multi-player-bingo-with-elixir-phoenix-vue-elm)     |
+| Full-Stack GraphQL with Absinthe, Phoenix, and React | Video course |    No    | [Link](https://pragmaticstudio.com/courses/unpacked-full-stack-graphql-with-absinthe-phoenix-react) |
 
 Another very interesting and free resource that is valid to mention is the [Elixir School](https://elixirschool.com/) project.
 
-## Duration: 1~2 years
+## Duration: 2 years
 
-We have 5 items in this roadmap. Projecting that we will spent more or less 3 months to finish each, we will spend 15 months to finish this program.
+Projecting that we will spent more or less 4 months to finish each resource using [this methodology](https://github.com/ericdouglas/distributed-systems-journey#c3t2b1), we will spend ~2 years to finish this roadmap.
