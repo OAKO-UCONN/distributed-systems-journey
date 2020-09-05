@@ -31,18 +31,17 @@ After finish this roadmap, you will have a:
 
 ⚠ Work in Progress ⚠
 
-| Name                                                 |     Type     | Is free? |                                                Link                                                 |
-| :--------------------------------------------------- | :----------: | :------: | :-------------------------------------------------------------------------------------------------: |
-| Testing Elixir                                       |     Book     |    No    |                            [Link](https://pragprog.com/titles/lmelixir/)                            |
-| Domain Modeling Made Functional                      |     Book     |    No    |                             [Link](https://pragprog.com/titles/swdddf/)                             |
-| Elixir in Action, Second edition                     |     Book     |    No    |                [Link](https://www.manning.com/books/elixir-in-action-second-edition)                |
-| Real-Time Phoenix                                    |     Book     |    No    |                           [Link](https://pragprog.com/titles/sbsockets/)                            |
-| Phoenix LiveView                                     | Video course |   Yes    |                        [Link](https://pragmaticstudio.com/phoenix-liveview)                         |
-| Metaprogramming Elixir                               |     Book     |    No    |                            [Link](https://pragprog.com/titles/cmelixir/)                            |
-| Full-Stack GraphQL with Absinthe, Phoenix, and React | Video course |    No    | [Link](https://pragmaticstudio.com/courses/unpacked-full-stack-graphql-with-absinthe-phoenix-react) |
-| Learn you some Erlang for great good                 |     Book     |   Yes    |                               [Link](https://learnyousomeerlang.com/)                               |
-| Designing for Scalability with Erlang/OTP            |     Book     |    No    |        [Link](https://www.oreilly.com/library/view/designing-for-scalability/9781449361556/)        |
-| The BEAM Book                                        |     Book     |   Yes    |                            [Link](https://github.com/happi/theBeamBook)                             |
+| Name                                      |     Type     | Is free? |                                         Link                                          |
+| :---------------------------------------- | :----------: | :------: | :-----------------------------------------------------------------------------------: |
+| Testing Elixir                            |     Book     |    No    |                     [Link](https://pragprog.com/titles/lmelixir/)                     |
+| Domain Modeling Made Functional           |     Book     |    No    |                      [Link](https://pragprog.com/titles/swdddf/)                      |
+| Elixir in Action, Second edition          |     Book     |    No    |         [Link](https://www.manning.com/books/elixir-in-action-second-edition)         |
+| Real-Time Phoenix                         |     Book     |    No    |                    [Link](https://pragprog.com/titles/sbsockets/)                     |
+| Phoenix LiveView                          | Video course |   Yes    |                 [Link](https://pragmaticstudio.com/phoenix-liveview)                  |
+| Metaprogramming Elixir                    |     Book     |    No    |                     [Link](https://pragprog.com/titles/cmelixir/)                     |
+| Learn you some Erlang for great good      |     Book     |   Yes    |                        [Link](https://learnyousomeerlang.com/)                        |
+| Designing for Scalability with Erlang/OTP |     Book     |    No    | [Link](https://www.oreilly.com/library/view/designing-for-scalability/9781449361556/) |
+| The BEAM Book                             |     Book     |   Yes    |                     [Link](https://github.com/happi/theBeamBook)                      |
 
 ## Duration: 4~5 years
 
