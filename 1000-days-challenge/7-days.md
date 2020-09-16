@@ -6,5 +6,10 @@ This file will be a log of my personal challenge that consists in **study at lea
 
 ### Day 01 - 2020-09-14 ✔
 
-- Started to read the book "Programming Elixir 1.6"
+- Started to read the book "Programming Elixir 1.6".
+- Studied 1h.
+
+### Day 02 - 2020-09-15 ✔
+
+- Continued to read the book "Programming Elixir 1.6" - chapter 4.
 - Studied 1h.
