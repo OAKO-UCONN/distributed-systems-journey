@@ -100,10 +100,8 @@ Maybe you will find it interesting/relevant to know more about the person behind
 
 My main background is not in Elixir/Erlang nor backend development.
 
-Currently, I am a JavaScript Developer, building React SPAs (and [creating](https://github.com/ericdouglas/onli-reducer) [some tools](https://github.com/ericdouglas/abstract-state) to improve the developer experience while using it).
+Currently, I am a JavaScript Developer, working with React and Node applications.
 
-I'm also finishing my specialization in Software Engineering.
-
-Some years ago I created OSSU and OSSU-CS (as I said before) to offer free education for everyone.
+You can see more about my previous experiences [here](https://linkedin.com/in/ericdouglasfo).
 
 Recently, I became a member of the [Erlang Ecosystem Foundation - Education, Training, & Adoption Working Group](https://erlef.org/wg/education), and my biggest motivation to join this working group was the _Distributed Systems Journey_ project. Since I knew I wanted to start this, I thought it would be great to receive and give some help in such endeavor of spreading the information about the Erlang and what its ecosystem has to offer to us.
