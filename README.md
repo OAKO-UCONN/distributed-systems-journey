@@ -1,5 +1,7 @@
 # Distributed Systems Journey
 
+## ⚠ Work in Progress ⚠
+
 > 📚 Roadmap to becoming a distributed systems specialist 🎓
 
 - [Distributed Systems Journey](#distributed-systems-journey)
